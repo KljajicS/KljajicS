@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a software engineer from Serbia.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning DevOps tools like Kubernetes, Terraform, and Argo.  <br>- ⚡ In my free time, I enjoy reading books and building apps to solve real-world problems.</p>
+<p align="left">I’m a software engineer from Serbia.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm learning DevOps tools like Kubernetes, Terraform, and Argo.  <br>- ⚡ In my free time, I enjoy exploring new technologies and reading books.</p>
 
 ###
 
